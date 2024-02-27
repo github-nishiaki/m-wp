@@ -139,9 +139,8 @@
 }
 
 .news ul li {
-    /* 文字に下線(点線)をつける */
+
     border-bottom: 1px dashed #000;
-    /* 左揃え */
     text-align: left;
     padding: 20px 0;
 }
@@ -150,7 +149,7 @@
     background-color: #ddd;
     padding: 20px;
     margin-top: 40px;
-    /* 適切なマージンを設定してコンテンツとの間にスペースを確保 */
+
 }
 
 .footer-inner {
